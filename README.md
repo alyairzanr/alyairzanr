@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi Everyone! 
+
+My name is **Alya Irzan Ramadhani**.
+
+Iam a **Bangkit Cohort Student 2023 Batch** at [Dicoding](https://www.dicoding.com/).
+
+If you are interested in getting to know me, please follow my account [Linkedin](https://www.linkedin.com/in/alya-irzan-ramadhani/).
