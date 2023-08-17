@@ -18,8 +18,16 @@ Here are some ideas to get you started:
 
 # Hi Everyone! 
 
-My name is **Alya Irzan Ramadhani**.
+🌱My name is **Alya Irzan Ramadhani**.
 
-I am a **Bangkit Cohort Student 2023 Batch 2** at [Dicoding](https://www.dicoding.com/).
+🔭I am a **Bangkit Cohort Student 2023 Batch 2** at [Dicoding](https://www.dicoding.com/).
 
-If you are interested in getting to know me, please follow my account [Linkedin](https://www.linkedin.com/in/alya-irzan-ramadhani/).
+📫If you are interested in getting to know me, please follow my account [Linkedin](https://www.linkedin.com/in/alya-irzan-ramadhani/).
+
+<p align="left">
+<a href="https://github.com/alyairzanr">
+  <img height="163em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alyairzanr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="163em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alyairzanr&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
